@@ -3,4 +3,5 @@ numpy
 seaborn
 matplotlib
 ipykernel
+dill
 #-e .
