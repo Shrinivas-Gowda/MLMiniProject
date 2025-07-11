@@ -4,4 +4,6 @@ seaborn
 matplotlib
 ipykernel
 dill
-#-e .
+xgboost
+catboost
+-e .
