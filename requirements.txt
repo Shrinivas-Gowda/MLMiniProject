@@ -6,4 +6,5 @@ ipykernel
 dill
 xgboost
 catboost
+Flask
 -e .
